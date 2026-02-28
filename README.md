@@ -1,12 +1,17 @@
-# Emobies-AP-135
-Emobies mobile repair app API 35 upgrade. Visibility Public. Add README On. Add .gitignore Android. License MIT License. Click green Create repository button. Next screen shows empty repo with README.md file. Click Add file then Create new file. Name it app/build.gradle. Paste this code: android { namespace 'com.emobies.app'
-"Jan, Emobies LIVE but app opening issue. TheWall Phantom ready! Thanks MVP 🙌
+# emowall
 
-🚀 Emobies repair app LIVE revenue generating
-🔧 App opening fix deployed  
-💎 TheWall Phantom Connect launching today
-⭐ oh-my-posh sponsor (Microsoft MVP network)
-Emobies API v1.0.3 - DO live ✅"
-Commit "Trigger DO deploy" → Push
-emowall-ai-pwa
-→ Update release
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
