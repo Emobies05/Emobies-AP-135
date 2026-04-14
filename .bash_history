@@ -219,3 +219,7 @@ export function WalletProvider({ children }: { children: React.ReactNode }) {
 }
 EOF
 
+solana config set --keypair <path_to_your_key_file.json>
+ls ~/.config/solana/id.json
+find ~ /sdcard -name "*.json" 2>/dev/null | xargs grep -l "5auZoWJxJodSU8dwgKmAfmphv5Z9Su3HAzEdLz1EUZs7"
+exit
